@@ -12,7 +12,7 @@ public class Main
 		else
 			System.out.println(num3 + " is greater");
 
-	}
+	} 
 	public static void main(String[] args) {
 		Main n = new Main();
 
